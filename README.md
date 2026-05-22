@@ -57,6 +57,8 @@ Two experiments using 5-fold cross-validation:
 Models evaluated include at minimum: bag-of-words classifier, weighted embedding classifier, and unweighted embedding classifier.
 
 ## 🗂️ Repository Structure
+
+
 s3859590/
 ├── task1.ipynb                  # Task 1: Text preprocessing
 ├── task1.py                     # .py export of task1.ipynb
@@ -66,6 +68,7 @@ s3859590/
 ├── count_vectors.txt            # Sparse count vector representations
 ├── processed.csv                # Cleaned review dataset
 └── stopwords_en.txt             # Stop words list (provided)
+
 
 ## 🛠️ Libraries Used
 
