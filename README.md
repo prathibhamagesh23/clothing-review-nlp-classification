@@ -2,8 +2,7 @@ Repo Name
 clothing-review-nlp-classification
 
 Description
-NLP pipeline for classifying clothing review recommendations. Covers text preprocessing, bag-of-words and word embedding feature representations (TF-IDF weighted/unweighted), and ML classification models with 5-fold cross-validation. COSC2820 Assignment 3 Milestone 1 — RMIT University.
-
+NLP pipeline for classifying clothing review recommendations. Covers text preprocessing, bag-of-words and word embedding feature representations (TF-IDF weighted/unweighted), and ML classification models with 5-fold cross-validation. 
 README
 markdown# 👗 Clothing Review NLP Classification
 
